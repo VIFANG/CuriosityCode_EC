@@ -41,3 +41,6 @@ ellipse(220,160,40,40);
 noStroke();
 fill(137, 255, 124);
 ellipse(223,157,20,20);
+
+//save function
+save("VINCENT.Curiosity.Drawing.png");
